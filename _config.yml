@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/shirtable/2015-12-12-baltimore"
-workshop_site   : "http://shirtable.github.io/2015-12-12-baltimore"
+workshop_repo   : "http://github.com/shirtable/2016-01-23-dc"
+workshop_site   : "http://shirtable.github.io/2016-01-23-dc"
 #--------------------------------------------------------------------------------
 # Our organization settings - adapted from SWC defaults
 #--------------------------------------------------------------------------------
